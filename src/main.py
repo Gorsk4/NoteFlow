@@ -1,3 +1,4 @@
+# FEATURE: Поиск и фильтрация с использованием замыканий и lambda
 import sqlite3
 import logging
 import os
