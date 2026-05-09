@@ -1,3 +1,4 @@
+# FEATURE: Экспорт/импорт в ZIP, JSON, Markdown
 import sqlite3
 import logging
 import os
