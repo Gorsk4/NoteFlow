@@ -1,3 +1,4 @@
+# FEATURE: Управление заметками - создание, редактирование, удаление
 import sqlite3
 import logging
 import os
