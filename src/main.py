@@ -1,5 +1,6 @@
 # FEATURE: Управление заметками - создание, редактирование, удаление
 # FEATURE: Поиск и фильтрация с использованием замыканий и lambda
+# FEATURE: Экспорт/импорт в ZIP, JSON, Markdown
 import sqlite3
 import logging
 import os
